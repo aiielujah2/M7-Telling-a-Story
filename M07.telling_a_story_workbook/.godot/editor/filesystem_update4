@@ -9,3 +9,5 @@ res://addons/gdpractice/practice_solutions/L10.P1.image_slideshow/assets/practic
 res://addons/gdpractice/practice_solutions/L10.P2.party_members/assets/practice_exercises_theme.tres
 res://lessons/main_theme.tres
 res://lessons/expressions.gd
+res://lessons/dialogue.tscn
+res://lessons/dialogue.gd
