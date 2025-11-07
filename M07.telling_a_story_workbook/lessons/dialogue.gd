@@ -15,42 +15,42 @@ var bodies := {
 var dialogue_items: Array[Dictionary] = [
 	{
 		"expression": expressions["regular"],
-		"text": "I've been studying arrays and dictionaries lately.",
+		"text": "[wave]I've been studying arrays and dictionaries lately.[/wave]",
 		"character": bodies["sophia"],
 	},
 	{
 		"expression": expressions["regular"],
-		"text": "Oh, nice. How has it been going?",
+		"text": "[wave]Oh, nice. How has it been going?[/wave]",
 		"character": bodies["pink"],
 	},
 	{
 		"expression": expressions["sad"],
-		"text": "Well... it's a little complicated!",
+		"text": "[shake]Well... it's a little complicated![/shake]",
 		"character": bodies["sophia"],
 	},
 	{
 		"expression": expressions["sad"],
-		"text": "Oh!",
+		"text": "[shake]Oh![/shake]",
 		"character": bodies["pink"],
 	},
 	{
 		"expression": expressions["regular"],
-		"text": "It sure takes time to click at first.",
+		"text": "[wave]It sure takes time to click at first.[/wave]",
 		"character": bodies["pink"],
 	},
 	{
 		"expression": expressions["happy"],
-		"text": "If you keep at it, eventually, you'll get the hang of it!",
+		"text": "[wave]If you keep at it, eventually, you'll get the hang of it![/wave]",
 		"character": bodies["pink"],
 	},
 	{
 		"expression": expressions["regular"],
-		"text": "Mhhh... I see. I'll keep at it, then.",
+		"text": "[rainbow val=0.8]Mhhh... I see. I'll keep at it, then.[/rainbow]",
 		"character": bodies["sophia"],
 	},
 	{
 		"expression": expressions["happy"],
-		"text": "Thanks for the encouragement. Time to LEARN!!!",
+		"text": "[shake]Thanks for the encouragement. Time to LEARN!!![/shake]",
 		"character": bodies["sophia"],
 	},
 ]
