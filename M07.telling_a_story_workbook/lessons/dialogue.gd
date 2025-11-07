@@ -90,7 +90,10 @@ func show_text() -> void:
 
 	
 	slide_in()
-
+	next_button.disabled = true
+	tween.finished.connect(func() -> void:
+		next_button.disabled = false
+	)
 
 func advance() -> void:
 	current_item_index += 1
